@@ -3,6 +3,12 @@ backend/data/
 *.db
 *.sqlite3
 
+# Personal scripts & server configs (NOT for public repo)
+nginx_cycling.conf
+merge_suunto_workouts.py
+query_server.py
+sync_workouts.py
+
 # Python
 __pycache__/
 *.py[cod]
